@@ -1,0 +1,31 @@
+D:\新建文件夹 (2)\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\新建文件夹 (2)\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\新建文件夹 (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+D:\新建文件夹 (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+D:\新建文件夹 (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form7.resources
+D:\新建文件夹 (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\新建文件夹 (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+D:\新建文件夹 (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\新建文件夹 (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\新建文件夹 (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+D:\新建文件夹 (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Students.resources
+D:\新建文件夹 (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Student1.resources
+D:\新建文件夹 (2)\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Student2.resources
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Students.resources
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Course.resources
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CourseAdd.resources
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.login.resources
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainForm.resources
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UserManagement.resources
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.register.resources
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UserAdd.resources
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ClassGrade.resources
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StudentAdd.resources
+C:\Users\DELL\Desktop\软件测试期末项目\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.StudentClass.resources
